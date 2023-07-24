@@ -1,0 +1,1 @@
+default, images will appear on the same line as the element before them. In the mock, all our images are centered on their own line. To effect this, make a new paragraph element and put the image element inside of it.

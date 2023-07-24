@@ -1,18 +1,42 @@
 *{
-  margin:0;
-  padding:0;
-  box-sizing: border-box;
+  /* margin:0;
+  padding:0; */
+  /* box-sizing: border-box; */
+}
+ body {
+  background-color:black;
+  text-align:center;
+  color:white;
+  font-family: Verdana, Tahoma, sans-serif;
 }
 html{
   font-size: 20px;
 }
 header{
   /* font-family: Verdana, sans-serif; */
-  font: 50px normal Verdana, arial,sans-serif;
+  font: 50px normal ;
   color: white;
   text-align: center;
 }
  a{
   font-size: 16px;
   color:aquamarine;
+}
+img{
+
+}
+video{
+  z-index:2;
+}
+footer >p{
+float:right;
+color:gray;
+text-align: right;
+}
+h2{
+  font: 42px 300;
+}
+h3{
+font-size: 21px;
+color:gray
 }
