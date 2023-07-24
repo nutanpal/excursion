@@ -1,8 +1,8 @@
-*{
-  /* margin:0;
-  padding:0; */
-  /* box-sizing: border-box; */
-}
+ /* *{
+  margin:0;
+  padding:0; 
+  box-sizing: border-box;
+}  */
  body {
   background-color:black;
   text-align:center;
@@ -22,12 +22,12 @@ header{
   font-size: 16px;
   color:aquamarine;
 }
-img{
+/* img{
 
-}
-video{
+} */
+/* video{
   z-index:2;
-}
+} */
 footer >p{
 float:right;
 color:gray;
